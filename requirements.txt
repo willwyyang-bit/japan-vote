@@ -1,0 +1,1 @@
+# Japan-VOTE uses only the Python standard library.
